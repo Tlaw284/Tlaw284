@@ -20,17 +20,6 @@ Computer Engineering senior at **Michigan State University** (B.S. Computer Engi
 
 ---
 
-## 📌 Selected Work
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**thomas-laidlaw-website**](https://github.com/Tlaw284/thomas-laidlaw-website) | My personal portfolio site | React, TypeScript, Vite, Tailwind CSS |
-| **Producer-Consumer Concurrency Simulation** | Multithreaded order processing system using POSIX threads and semaphores to keep shared inventory synchronized | C++, Linux, pthreads |
-| **Raspberry Pi Home Assistant** | Pi-hosted dashboard with 4 REST endpoints serving real-time weather, calendar, time, and location data | Python, Flask, JavaScript |
-| **Inventory Management System** 🏆 | Competition-winning CLI that validates and bulk-loads CSV records into a relational database | Python, SQLite |
-| **GenoPalate Capstone** *(in progress)* | Adding Low FODMAP and SSRD diet filters across a React/React Native, Node.js/Express, and PostgreSQL stack | React, Node.js, PostgreSQL |
-
----
 
 ## 📫 Connect
 
