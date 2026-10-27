@@ -2,11 +2,9 @@
 
 Computer Engineering senior at **Michigan State University** (B.S. Computer Engineering, Minor in Information Technology, graduating December 2026). I work where hardware meets software, and where devices meet the cloud.
 
-- 🔧 Previously an **Embedded Systems Engineering Intern at DornerWorks**: FreeRTOS firmware, cloud-to-edge OTA updates on AWS IoT Core, and wireless WAN test frameworks
-- ☁️ Previously a **Cloud Solutions Engineer at Daydream Technologies**: AWS hosting, IAM architecture, and production support
-- 🧑‍🏫 **Undergraduate Learning Assistant** for MSU's CSE 231 (Intro to Programming in Python)
-- 🏆 2nd place, Python Programming Competition, Midwest Collegiate Computing Competition (MWC3) 2026
-- 🎯 Looking for full-time roles in **embedded systems, cloud/IoT, or software** starting in 2027
+- 🔧 Previously an **Embedded Systems Engineering Intern**: FreeRTOS firmware, cloud-to-edge OTA updates on AWS IoT Core, and wireless WAN test frameworks
+- ☁️ Previously a **Cloud Solutions Engineer**: AWS hosting, IAM architecture, and production support
+- 🧑‍🏫 **Undergraduate Learning Assistant** for Intro to Programming in Python
 
 ---
 
